@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lato:wght@300&display=swap');
+
+body {
+  text-align: center;
+  font-family: Lato;
+  display: grid;
+  background-color: white;
+}
+
+form {
+  width: 80%;
+  margin: auto;
+}
+
+label {
+float: left;
+  width: 50%;
+}
+
+input,
+textarea {
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+  background: white;
+  font-family: Lato;
+  border: 1px solid black;
+}
+
+fieldset {
+  margin: 10px;
+  font-weight: bold;
+  background: beige;
+}
+
+button {
+  background-color: darkcyan;
+  font-size: 15px;
+  padding: 10px;
+  border: none;
+  color: white;
+}
+
+legend {
+  background: #007c2e;
+  padding: 5px;
+  color: white;
+}
