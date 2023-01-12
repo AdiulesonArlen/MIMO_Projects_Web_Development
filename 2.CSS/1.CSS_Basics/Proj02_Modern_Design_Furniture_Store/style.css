@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  background-color: aliceBlue;
+}
+
+img {
+  background-color: lightBlue;
+  width: 100px;
+}
+
+button {
+  background-color: darkCyan;
+  color: white;
+}
+
+p {
+  background-color: aliceBlue;
+}
