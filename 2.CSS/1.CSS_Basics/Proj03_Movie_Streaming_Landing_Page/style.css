@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
+}
+
+img {
+  margin: 40px;
+  height: 40px;
+  width: 150px;
+}
+
+a {
+  color: red;
+}
+
+h1 {
+  margin: 30px;
+}
+
+h2 {
+  margin: 20px;
+}
+
+p {
+  background-color: dimgray;
+  margin-top: 80px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 20px;
+}
