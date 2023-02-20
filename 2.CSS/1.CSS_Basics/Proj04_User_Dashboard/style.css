@@ -1,0 +1,30 @@
+body {
+  background-color: indigo;
+  font-family: 'Lato', sans-serif;
+  color: whitesmoke;
+}
+
+a {
+  color: whitesmoke;
+}
+
+.event {
+  background-color: whitesmoke;
+  color: black;
+  width: 400px;
+  padding: 5px 0 5px 15px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.link {
+  margin: 10px 0 10px 0;
+}
+
+.greeting {
+  color: whitesmoke;
+}
+
+.notifications {
+  color: #62d76b;
+}
